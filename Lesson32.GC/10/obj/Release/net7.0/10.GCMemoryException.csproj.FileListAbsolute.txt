@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson32.GC\10\bin\Release\net7.0\10.GCMemoryException.exe
+D:\Projects\VS Projects\Lesson32.GC\10\bin\Release\net7.0\10.GCMemoryException.deps.json
+D:\Projects\VS Projects\Lesson32.GC\10\bin\Release\net7.0\10.GCMemoryException.runtimeconfig.json
+D:\Projects\VS Projects\Lesson32.GC\10\bin\Release\net7.0\10.GCMemoryException.dll
+D:\Projects\VS Projects\Lesson32.GC\10\bin\Release\net7.0\10.GCMemoryException.pdb
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10.GCMemoryException.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10.GCMemoryException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10.GCMemoryException.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10.GCMemoryException.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10.GCMemoryException.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10.GCMemoryException.dll
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\refint\10.GCMemoryException.dll
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10.GCMemoryException.pdb
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10.GCMemoryException.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\ref\10.GCMemoryException.dll

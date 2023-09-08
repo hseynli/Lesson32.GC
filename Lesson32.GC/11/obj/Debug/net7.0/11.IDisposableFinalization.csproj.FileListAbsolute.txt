@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson32.GC\11\bin\Debug\net7.0\11.IDisposableFinalization.exe
+D:\Projects\VS Projects\Lesson32.GC\11\bin\Debug\net7.0\11.IDisposableFinalization.deps.json
+D:\Projects\VS Projects\Lesson32.GC\11\bin\Debug\net7.0\11.IDisposableFinalization.runtimeconfig.json
+D:\Projects\VS Projects\Lesson32.GC\11\bin\Debug\net7.0\11.IDisposableFinalization.dll
+D:\Projects\VS Projects\Lesson32.GC\11\bin\Debug\net7.0\11.IDisposableFinalization.pdb
+D:\Projects\VS Projects\Lesson32.GC\11\obj\Debug\net7.0\11.IDisposableFinalization.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson32.GC\11\obj\Debug\net7.0\11.IDisposableFinalization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson32.GC\11\obj\Debug\net7.0\11.IDisposableFinalization.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\11\obj\Debug\net7.0\11.IDisposableFinalization.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson32.GC\11\obj\Debug\net7.0\11.IDisposableFinalization.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\11\obj\Debug\net7.0\11.IDisposableFinalization.dll
+D:\Projects\VS Projects\Lesson32.GC\11\obj\Debug\net7.0\refint\11.IDisposableFinalization.dll
+D:\Projects\VS Projects\Lesson32.GC\11\obj\Debug\net7.0\11.IDisposableFinalization.pdb
+D:\Projects\VS Projects\Lesson32.GC\11\obj\Debug\net7.0\11.IDisposableFinalization.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson32.GC\11\obj\Debug\net7.0\ref\11.IDisposableFinalization.dll

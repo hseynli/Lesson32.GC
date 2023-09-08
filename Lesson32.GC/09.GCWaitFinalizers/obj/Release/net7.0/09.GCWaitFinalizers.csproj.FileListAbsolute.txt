@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\bin\Release\net7.0\09.GCWaitFinalizers.exe
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\bin\Release\net7.0\09.GCWaitFinalizers.deps.json
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\bin\Release\net7.0\09.GCWaitFinalizers.runtimeconfig.json
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\bin\Release\net7.0\09.GCWaitFinalizers.dll
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\bin\Release\net7.0\09.GCWaitFinalizers.pdb
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\net7.0\09.GCWaitFinalizers.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\net7.0\09.GCWaitFinalizers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\net7.0\09.GCWaitFinalizers.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\net7.0\09.GCWaitFinalizers.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\net7.0\09.GCWaitFinalizers.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\net7.0\09.GCWaitFinalizers.dll
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\net7.0\refint\09.GCWaitFinalizers.dll
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\net7.0\09.GCWaitFinalizers.pdb
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\net7.0\09.GCWaitFinalizers.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\net7.0\ref\09.GCWaitFinalizers.dll

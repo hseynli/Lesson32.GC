@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\bin\Release\net7.0\06.DestructorTryCatch.exe
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\bin\Release\net7.0\06.DestructorTryCatch.deps.json
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\bin\Release\net7.0\06.DestructorTryCatch.runtimeconfig.json
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\bin\Release\net7.0\06.DestructorTryCatch.dll
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\bin\Release\net7.0\06.DestructorTryCatch.pdb
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\obj\Release\net7.0\06.DestructorTryCatch.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\obj\Release\net7.0\06.DestructorTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\obj\Release\net7.0\06.DestructorTryCatch.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\obj\Release\net7.0\06.DestructorTryCatch.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\obj\Release\net7.0\06.DestructorTryCatch.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\obj\Release\net7.0\06.DestructorTryCatch.dll
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\obj\Release\net7.0\refint\06.DestructorTryCatch.dll
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\obj\Release\net7.0\06.DestructorTryCatch.pdb
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\obj\Release\net7.0\06.DestructorTryCatch.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson32.GC\06.DestructorTryCatch\obj\Release\net7.0\ref\06.DestructorTryCatch.dll

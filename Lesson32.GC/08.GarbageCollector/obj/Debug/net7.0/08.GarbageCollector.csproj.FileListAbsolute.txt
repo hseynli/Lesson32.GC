@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\bin\Debug\net7.0\08.GarbageCollector.exe
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\bin\Debug\net7.0\08.GarbageCollector.deps.json
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\bin\Debug\net7.0\08.GarbageCollector.runtimeconfig.json
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\bin\Debug\net7.0\08.GarbageCollector.dll
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\bin\Debug\net7.0\08.GarbageCollector.pdb
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\obj\Debug\net7.0\08.GarbageCollector.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\obj\Debug\net7.0\08.GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\obj\Debug\net7.0\08.GarbageCollector.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\obj\Debug\net7.0\08.GarbageCollector.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\obj\Debug\net7.0\08.GarbageCollector.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\obj\Debug\net7.0\08.GarbageCollector.dll
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\obj\Debug\net7.0\refint\08.GarbageCollector.dll
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\obj\Debug\net7.0\08.GarbageCollector.pdb
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\obj\Debug\net7.0\08.GarbageCollector.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson32.GC\08.GarbageCollector\obj\Debug\net7.0\ref\08.GarbageCollector.dll

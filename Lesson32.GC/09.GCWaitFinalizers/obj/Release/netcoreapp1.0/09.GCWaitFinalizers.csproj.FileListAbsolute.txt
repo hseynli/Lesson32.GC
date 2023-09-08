@@ -1,0 +1,5 @@
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\netcoreapp1.0\09.GCWaitFinalizers.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\netcoreapp1.0\09.GCWaitFinalizers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\netcoreapp1.0\09.GCWaitFinalizers.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\netcoreapp1.0\09.GCWaitFinalizers.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson32.GC\09.GCWaitFinalizers\obj\Release\netcoreapp1.0\09.GCWaitFinalizers.csproj.CoreCompileInputs.cache

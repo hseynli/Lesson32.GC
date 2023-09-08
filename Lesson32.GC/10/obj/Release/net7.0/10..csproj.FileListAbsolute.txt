@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson32.GC\10\bin\Release\net7.0\10..exe
+D:\Projects\VS Projects\Lesson32.GC\10\bin\Release\net7.0\10..deps.json
+D:\Projects\VS Projects\Lesson32.GC\10\bin\Release\net7.0\10..runtimeconfig.json
+D:\Projects\VS Projects\Lesson32.GC\10\bin\Release\net7.0\10..dll
+D:\Projects\VS Projects\Lesson32.GC\10\bin\Release\net7.0\10..pdb
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10..csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10..GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10..AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10..AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10..csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10..dll
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\refint\10..dll
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10..pdb
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\10..genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson32.GC\10\obj\Release\net7.0\ref\10..dll

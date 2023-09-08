@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\bin\Debug\net7.0\07.DestructorObject.exe
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\bin\Debug\net7.0\07.DestructorObject.deps.json
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\bin\Debug\net7.0\07.DestructorObject.runtimeconfig.json
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\bin\Debug\net7.0\07.DestructorObject.dll
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\bin\Debug\net7.0\07.DestructorObject.pdb
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\obj\Debug\net7.0\07.DestructorObject.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\obj\Debug\net7.0\07.DestructorObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\obj\Debug\net7.0\07.DestructorObject.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\obj\Debug\net7.0\07.DestructorObject.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\obj\Debug\net7.0\07.DestructorObject.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\obj\Debug\net7.0\07.DestructorObject.dll
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\obj\Debug\net7.0\refint\07.DestructorObject.dll
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\obj\Debug\net7.0\07.DestructorObject.pdb
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\obj\Debug\net7.0\07.DestructorObject.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson32.GC\07.DestructorObject\obj\Debug\net7.0\ref\07.DestructorObject.dll

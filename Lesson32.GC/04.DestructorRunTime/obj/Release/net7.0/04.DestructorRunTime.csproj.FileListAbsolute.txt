@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\bin\Release\net7.0\04.DestructorRunTime.exe
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\bin\Release\net7.0\04.DestructorRunTime.deps.json
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\bin\Release\net7.0\04.DestructorRunTime.runtimeconfig.json
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\bin\Release\net7.0\04.DestructorRunTime.dll
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\bin\Release\net7.0\04.DestructorRunTime.pdb
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\obj\Release\net7.0\04.DestructorRunTime.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\obj\Release\net7.0\04.DestructorRunTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\obj\Release\net7.0\04.DestructorRunTime.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\obj\Release\net7.0\04.DestructorRunTime.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\obj\Release\net7.0\04.DestructorRunTime.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\obj\Release\net7.0\04.DestructorRunTime.dll
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\obj\Release\net7.0\refint\04.DestructorRunTime.dll
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\obj\Release\net7.0\04.DestructorRunTime.pdb
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\obj\Release\net7.0\04.DestructorRunTime.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson32.GC\04.DestructorRunTime\obj\Release\net7.0\ref\04.DestructorRunTime.dll

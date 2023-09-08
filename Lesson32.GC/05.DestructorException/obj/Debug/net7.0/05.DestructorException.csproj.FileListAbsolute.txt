@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\bin\Debug\net7.0\05.DestructorException.exe
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\bin\Debug\net7.0\05.DestructorException.deps.json
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\bin\Debug\net7.0\05.DestructorException.runtimeconfig.json
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\bin\Debug\net7.0\05.DestructorException.dll
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\bin\Debug\net7.0\05.DestructorException.pdb
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\obj\Debug\net7.0\05.DestructorException.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\obj\Debug\net7.0\05.DestructorException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\obj\Debug\net7.0\05.DestructorException.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\obj\Debug\net7.0\05.DestructorException.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\obj\Debug\net7.0\05.DestructorException.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\obj\Debug\net7.0\05.DestructorException.dll
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\obj\Debug\net7.0\refint\05.DestructorException.dll
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\obj\Debug\net7.0\05.DestructorException.pdb
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\obj\Debug\net7.0\05.DestructorException.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson32.GC\05.DestructorException\obj\Debug\net7.0\ref\05.DestructorException.dll
